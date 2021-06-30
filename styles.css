@@ -1,0 +1,30 @@
+.review{
+	color: #ccc;
+}
+
+.freeshipping{
+	background-color: black; 
+	color: white;
+	position: absolute;
+	left: 142px;
+}
+.line{
+	width:20px; 
+	height:2px;
+	background-color: orange;
+}
+
+.cart{
+	background-color: black;
+	color: white;
+	height: 50px;
+	padding-top: 8%;
+}
+
+.circle{
+	height: 40px;
+	width: 40px;
+	border-radius:50%;
+	background-color: grey;
+	padding-top: 50%;
+}
